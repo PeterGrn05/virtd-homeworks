@@ -99,6 +99,11 @@ https://hub.docker.com/repository/docker/petergrn05/custom-nginx/general
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 
+### Ответ на Задание 4:
+
+<img width="1427" height="621" alt="image" src="https://github.com/user-attachments/assets/18594010-5430-4457-9741-c7c29c24f063" />
+
+<img width="947" height="742" alt="image" src="https://github.com/user-attachments/assets/6d66bfbb-dcb7-40e0-ae21-521badc6efcc" />
 
 ## Задача 5
 

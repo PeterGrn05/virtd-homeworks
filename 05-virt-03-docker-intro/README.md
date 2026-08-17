@@ -68,6 +68,25 @@ https://hub.docker.com/repository/docker/petergrn05/custom-nginx/general
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 
+### Ответ на Задание 3:
+
+<img width="1272" height="832" alt="image" src="https://github.com/user-attachments/assets/690eab8f-f71c-4e9a-be1a-0042688e6f87" />
+
+При нажатии Ctrl+C, отправляется сигнал завершения. После этого, контейнер останавливается.
+
+<img width="757" height="465" alt="image" src="https://github.com/user-attachments/assets/6bea3d53-0041-454c-a3fd-473cad7ca1ed" />
+
+<img width="688" height="478" alt="image" src="https://github.com/user-attachments/assets/4eb42da6-b867-40d0-8e9a-321d98e5cdca" />
+
+Был установлен Nano.
+
+<img width="833" height="462" alt="image" src="https://github.com/user-attachments/assets/fc48bfc0-ae3b-4622-a3bc-9ca8ede80f7f" />
+
+Проблема заключаетсяв том, что контейнер слушает порт 81, а тем временем внешний порт 8080 продолжает слушать уже несуществующий порт 80. 
+
+<img width="1433" height="300" alt="image" src="https://github.com/user-attachments/assets/bc422d4f-4e5e-43c3-a0f6-c434752b0bb0" />
+(не обращайте внимание на то что у меня другие контейнеры)
+
 ## Задача 4
 
 

@@ -152,6 +152,26 @@ services:
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод, файл compose.yaml , скриншот portainer c задеплоенным компоузом.
 
+### Ответ на Задание 5:
+
+<img width="1497" height="626" alt="image" src="https://github.com/user-attachments/assets/21ee2d03-cd86-466e-9937-d616f3615d7f" />
+Запускается compose.yaml, т.к. Docker Compose автоматически ищет Compose-файл в рабочем каталоге.
+
+<img width="622" height="270" alt="image" src="https://github.com/user-attachments/assets/8f5a5a4f-c181-416f-bc17-003710212d9d" />
+
+<img width="1617" height="797" alt="image" src="https://github.com/user-attachments/assets/2e322ba2-f04e-4969-b577-746b11270a3a" />
+
+<img width="1343" height="292" alt="image" src="https://github.com/user-attachments/assets/1c14f45d-e05f-4800-b666-7dde36396afc" />
+
+<img width="1538" height="488" alt="image" src="https://github.com/user-attachments/assets/3014ea22-476e-4c53-9901-6879387f11b6" />
+
+<img width="921" height="894" alt="image" src="https://github.com/user-attachments/assets/68b3ab01-dee8-4ae0-90c4-88a13cddb84b" />
+<img width="612" height="213" alt="image" src="https://github.com/user-attachments/assets/58abecfe-8a37-4814-a7c9-2330cf2f2a9e" />
+
+<img width="1611" height="418" alt="image" src="https://github.com/user-attachments/assets/d4d2ac13-b405-4383-874a-e369837af61f" />
+
+Предупреждается что данные контейнеры не управляются, т.к. файл compose.yаml удален. Но все-таки другие файлы существуют. 
+
 ---
 
 ### Правила приема

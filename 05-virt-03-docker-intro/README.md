@@ -43,6 +43,14 @@ https://hub.docker.com/repository/docker/petergrn05/custom-nginx/general
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 
+### Ответ на Задание 2:
+
+<img width="1632" height="775" alt="image" src="https://github.com/user-attachments/assets/3153a509-ab18-4cc0-b75d-cf3c77e68030" />
+
+<img width="718" height="445" alt="image" src="https://github.com/user-attachments/assets/d1a2e699-14da-4d74-af63-c4df240e6db9" />
+
+
+
 
 ## Задача 3
 1. Воспользуйтесь docker help или google, чтобы узнать как подключиться к стандартному потоку ввода/вывода/ошибок контейнера "custom-nginx-t2".

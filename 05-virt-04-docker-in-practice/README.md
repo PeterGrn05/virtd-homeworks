@@ -40,6 +40,14 @@ See 'snap info docker' for additional versions.
 2.1 Используйте multistage сборку вместо single stage.
 3. (Необязательная часть, *) Изучите инструкцию в проекте и запустите web-приложение без использования docker, с помощью venv. (Mysql БД можно запустить в docker run).
 4. (Необязательная часть, *) Изучите код приложения и добавьте управление названием таблицы через ENV переменную.
+
+### Ответ:
+
+https://github.com/PeterGrn05/shvirtd-example-python (Ссылка на форк)   
+
+<img width="988" height="66" alt="image" src="https://github.com/user-attachments/assets/5cdb1dc8-7ad4-43c4-9bc8-06c2c5e16cec" />
+
+
 ---
 ### ВНИМАНИЕ!
 !!! В процессе последующего выполнения ДЗ НЕ изменяйте содержимое файлов в fork-репозитории! Ваша задача ДОБАВИТЬ 5 файлов: ```Dockerfile.python```, ```compose.yaml```, ```.gitignore```, ```.dockerignore```,```bash-скрипт```. Если вам понадобилось внести иные изменения в проект - вы что-то делаете неверно!

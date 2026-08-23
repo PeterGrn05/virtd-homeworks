@@ -76,6 +76,20 @@ https://github.com/PeterGrn05/shvirtd-example-python (Ссылка на форк
 
 6. Остановите проект. В качестве ответа приложите скриншот sql-запроса.
 
+# Ответ:
+
+compose.yaml можно посмотреть в форкнутом репозитории.
+
+<img width="1253" height="202" alt="image" src="https://github.com/user-attachments/assets/a6650843-6d25-4cf6-8ba6-e398998f4eaa" />
+
+<img width="1269" height="93" alt="image" src="https://github.com/user-attachments/assets/a1699355-07bc-4514-8ebc-d1298eec367a" />
+
+Из-за какой-то неполадки касательно WSL, надо было сделать curl немного иначе. Извиняюсь за это.
+
+<img width="805" height="810" alt="image" src="https://github.com/user-attachments/assets/d65917c9-4d03-43b8-95c7-bf1d355837b4" />
+
+По мне немного фигово вышло, но я как-то попытался сделать как мог. Простите если так.
+
 ## Задача 4
 1. Запустите в Yandex Cloud ВМ (вам хватит 2 Гб Ram).
 2. Подключитесь к Вм по ssh и установите docker.

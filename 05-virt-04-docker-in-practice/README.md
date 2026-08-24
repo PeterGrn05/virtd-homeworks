@@ -98,6 +98,17 @@ compose.yaml можно посмотреть в форкнутом репози�
 5. (Необязательная часть) Дополнительно настройте remote ssh context к вашему серверу. Отобразите список контекстов и результат удаленного выполнения ```docker ps -a```
 6. Повторите SQL-запрос на сервере и приложите скриншот и ссылку на fork.
 
+### Ответ:
+
+<img width="1745" height="200" alt="image" src="https://github.com/user-attachments/assets/83a30759-9396-44bd-b6fe-6c1b85cd12f3" />
+
+<img width="353" height="86" alt="image" src="https://github.com/user-attachments/assets/181e32bf-d845-4046-934f-4b30835c3825" />
+
+<img width="1130" height="630" alt="image" src="https://github.com/user-attachments/assets/1cb18bf7-ba5d-4663-bdad-9e024766db22" />
+
+<img width="445" height="174" alt="image" src="https://github.com/user-attachments/assets/63c3e46d-85f5-467b-b2f1-bd73755be167" />
+
+Попытался как мог. Извините
 ## Задача 5 (*)
 1. Напишите и задеплойте на вашу облачную ВМ bash скрипт, который произведет резервное копирование БД mysql в директорию "/opt/backup" с помощью запуска в сети "backend" контейнера из образа ```schnitzler/mysqldump``` при помощи ```docker run ...``` команды. Подсказка: "документация образа."
 2. Протестируйте ручной запуск

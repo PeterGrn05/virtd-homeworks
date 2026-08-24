@@ -119,3 +119,12 @@ compose.yaml можно посмотреть в форкнутом репози�
 Скачайте docker образ ```hashicorp/terraform:latest``` и скопируйте бинарный файл ```/bin/terraform``` на свою локальную машину, используя dive и docker save.
 Предоставьте скриншоты  действий .
 
+### Ответ:
+<img width="1056" height="200" alt="image" src="https://github.com/user-attachments/assets/528a2a8e-aad9-41cd-8d40-a0b5daf07635" />
+
+<img width="914" height="630" alt="image" src="https://github.com/user-attachments/assets/958778bd-7196-43c9-aa47-8ff41380b686" />
+
+<img width="1092" height="74" alt="image" src="https://github.com/user-attachments/assets/18a53730-3727-490c-8ffe-8279e1c1001e" />
+
+<img width="1397" height="56" alt="image" src="https://github.com/user-attachments/assets/e02207f7-9634-412d-9191-a406b5a6a312" />
+
